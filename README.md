@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix-GPT
 
 - Create React App
@@ -39,10 +40,20 @@
 - MultiLanguage Page in GPT Page
 
 
+=======
+# Netflix GPT
+
+- create React App
+- Configured TailwindCSS
+- Header
+- Login Form
+- Sign Up Form
+>>>>>>> 252e979150bfb9acec20fd48628aed21fd0e3e29
 
 
 # Features
 
+<<<<<<< HEAD
 - Login/Sign-up
     - Sign in / Sign out Form
     - redirect to Browse Page
@@ -58,3 +69,20 @@
     - Netflix GPT
         - Search Bar
         - Movies Suggestion
+=======
+- Login/SignUp
+    - Sign In/SignUp form
+    - redirect to Browse Page
+
+- Browse(After Authenticaion)
+    - Header
+    - Main Movie
+        - Tailer in Background
+        - Title & Description
+        - MovieSuggestion
+            - MovieLists * N
+    
+- NextflixGPT
+    - Search Bar
+    - Movie Suggestion
+>>>>>>> 252e979150bfb9acec20fd48628aed21fd0e3e29

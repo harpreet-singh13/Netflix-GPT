@@ -1,5 +1,6 @@
 @tailwind base;
 @tailwind components;
+<<<<<<< HEAD
 @tailwind utilities;
 
 @layer utilities {
@@ -13,3 +14,6 @@
           scrollbar-width: none;  /* Firefox */
     }
   }
+=======
+@tailwind utilities;
+>>>>>>> 252e979150bfb9acec20fd48628aed21fd0e3e29
