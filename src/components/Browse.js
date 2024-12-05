@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Header from './Header';
 import MainContainer from './MainContainer';
 import SecondaryContainer from './SecondaryContainer';
@@ -35,3 +36,14 @@ const Browse = () => {
 }
 
 export default Browse;
+=======
+import React from 'react'
+
+const Browse = () => {
+  return (
+    <div>Browse</div>
+  )
+}
+
+export default Browse
+>>>>>>> 252e979150bfb9acec20fd48628aed21fd0e3e29
